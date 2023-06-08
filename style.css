@@ -132,13 +132,13 @@ label {
 
 @media all and (min-width: 600px) {
 
-  .main-menu ul {
+  /*.main-menu ul {
     display: flex;
   }
 
   .main-menu ul li {
     text-align: left;
-  }
+  }*/
 
   main {
     display: flex;
